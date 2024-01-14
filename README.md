@@ -13,8 +13,9 @@ Komentar bisa lebih dari satu baris
 ## Tipe Data
 ### Tipe data number
 <a href="tipe-data-number.html">tipe-data-number.html</a>
+
 Js hanya mendukung satu tipe data number, artinya bilangan bulat dan desimal pada bahasa js disatukan. 
-#### Number Notation
+##### Number Notation
 notasi dalam tipe data number js yaitu basisnya 10. untuk mendukung notasi number yang lain seperti binary, hexadecimal, dan octal. maka harus menambahkan dua karakter d depan nya seperti:
 <ul>
     <li>Binary : 0x</li>
